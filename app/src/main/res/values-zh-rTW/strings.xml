@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LanguageSwitchDemo</string>
+
+    <string name="text">語言</string>
+    <string name="auto">跟隨系統</string>
+
+
+    <string name="china">简体中文</string>
+    <string name="taiwan">繁體中文（台湾）</string>
+    <string name="us">English</string>
+
+</resources>
